@@ -1,4 +1,6 @@
-import React from "react";
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+// @ts-ignore
 import {Navbar,Welcome,Footer,Services,Transactions,Loader} from "./components";
 
 export const App = () => {
